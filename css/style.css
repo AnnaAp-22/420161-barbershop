@@ -1,0 +1,26 @@
+body {
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+    background: url("../img/bground1.png.jpg") repeat;
+
+}
+h1,
+.catalog-title {
+    font-size: 30px;
+    line-height: 42px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+h2,
+.catalog-content-title{
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.product-name{
+    font-size: 14px;
+    font-weight:normal;
+}
